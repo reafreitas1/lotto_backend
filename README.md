@@ -15,11 +15,14 @@
 - Return error messages to the user if he is registering wrong data. </h4>
 
 ***
+
 <h4>I developed the entire MVC Architecture in Java;</h4>
 <h4>- Model: models the database table, with create and update methods; gets and setters to access and change each item in the table as a variable;</h4>
 <h4>- View: each web page is a JSP file (HTML that JAVA understands) and has a controller, I can have methods in the controllers or directly in the JSP;</h4>
 <h4>- Controller: are exactly the files that contain all the methods.</h4>
+
 ***
+
 <h3> Video below showing the active TomCat server, code, registration screen and finally the recording of user data in the database. </h3>
 
 https://user-images.githubusercontent.com/79333175/154308557-4d596d26-ddf2-4c77-be6b-0b03bd50873f.mp4
